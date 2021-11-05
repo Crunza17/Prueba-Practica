@@ -1,10 +1,12 @@
 # Prueba-Practica
+***
 ## Contenido
-
-1. [info-general](#Información General)
+***
+1. ###Información General
 Este programa está hecho para la gestión de inventario y la relización de compras de productos que deben ser registrados.
 La página se encuentra terminado y listo para su uso.
 
+2. ###Requisitos
 Para poder utilizar este programa debes contar con un sistema operativo de Windows XP en adelante, XAMMP para montar la página y MySQL para montar la base de datos.
 
 Para instalarlo, primero debes ingresar a la ruta C:/xammp/htdocs y ahí pegar toda la carpeta que contiene este archivo (Prueba-Practica), luego abrir el archivo BaseDeDatos.sql que se encuentra en la carpeta "BD", en MySQL, seguido a eso, debes hacer la conexión en MySQL para poder ejecutar el contenido del archivo, para esto debes tener encendio el servicio "MySQL" en el panel de control de XAMMP.
