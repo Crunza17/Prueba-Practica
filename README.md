@@ -2,8 +2,7 @@
 ***
 ## Contenido
 ***
-1. Información General
-´´´
+1. Información General</br>
 Este programa está hecho para la gestión de inventario y la relización de compras de productos que deben ser registrados.
 La página se encuentra terminado y listo para su uso.
 
