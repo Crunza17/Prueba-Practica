@@ -1,0 +1,61 @@
+*{font-size: 13px; font-family: Century Gothic;}
+
+#tabla_pequeña {
+	border: 2px solid #1C2833;
+	width: 450px;
+	border-collapse: collapse;
+	-webkit-box-shadow: 9px 9px 3px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 9px 9px 3px 0px rgba(0,0,0,0.75);
+	box-shadow: 9px 9px 3px 0px rgba(0,0,0,0.75);
+}
+
+#tabla_pequeña th{
+	background: #1C2833;
+	color: white;
+	height: 40px;
+}
+
+#tabla_pequeña tr{
+	background: #5D6D7E;
+	color: white;
+	height: 25px;
+}
+
+#tabla {
+	border: 2px solid #1C2833;
+	width: 900px;
+	border-collapse: collapse;
+	-webkit-box-shadow: 9px 9px 3px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 9px 9px 3px 0px rgba(0,0,0,0.75);
+	box-shadow: 9px 9px 3px 0px rgba(0,0,0,0.75);
+}
+
+#tabla th{
+	background: #1C2833;
+	color: white;
+	height: 40px;
+}
+
+#tabla tr{
+	background: #5D6D7E;
+	color: white;
+	height: 25px;
+}
+
+body::-webkit-scrollbar{
+	width: 10px;
+	height: 10px;
+}
+
+body::-webkit-scrollbar-thumb{
+	background: #2C3E50;
+    border-radius: 2px;
+}
+
+body::-webkit-scrollbar-thumb:hover{
+	background: #1C2833;
+}
+
+body::-webkit-scrollbar-track{
+	background: #5D6D7E;
+}
