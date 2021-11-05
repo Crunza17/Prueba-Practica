@@ -1,6 +1,10 @@
 # Prueba-Practica
 ***
 ## Contenido
+* Información General
+* Requisitos
+* Guia de Instalación
+* Aclaraciones
 ***
 1. Información General</br>
 Este programa está hecho para la gestión de inventario y la relización de compras de productos que deben ser registrados.
