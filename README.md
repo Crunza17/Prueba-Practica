@@ -1,4 +1,4 @@
-# Prueba-Practica
+# Prueba Practica
 ***
 ## Contenido
 * Información General
